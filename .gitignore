@@ -1,7 +1,0 @@
-.DS_Store
-*.swp
-.idea
-.module-cache
-node_modules
-.vscode
-public
